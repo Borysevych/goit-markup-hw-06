@@ -764,7 +764,7 @@ overflow: hidden;
 
 .form-icon{
     position: absolute;
-    top: 80%;
+    top: 50%;
     left: 15px;
     transform: translateY(-50%);
 
